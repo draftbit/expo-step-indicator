@@ -1,4 +1,6 @@
-# react-native-step-indicator
+# expo-step-indicator
+
+Previously known as `react-native-step-indicator`
 
 # Read this: We've recently taken over this library and are working on providing an up to date experience
 
