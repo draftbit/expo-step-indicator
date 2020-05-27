@@ -27,7 +27,7 @@
     "url": "https://github.com/24ark/react-native-step-indicator/issues"
   },
   "homepage": "https://github.com/24ark/react-native-step-indicator#readme",
-  "dependencies": {
-    "prop-types": "^15.6.0"
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
